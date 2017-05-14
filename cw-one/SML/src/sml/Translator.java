@@ -5,13 +5,16 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
+import java.util.*;
+import java.lang.reflect.*;
+import java.util.stream.*;
 
 /*
  * The translator of a <b>S</b><b>M</b>al<b>L</b> program.
  */
 public class Translator {
 
-    private static final String PATH = "/home/eserra/Birkbeck/CSIS/keithRepo/coursework/cw-one/";
+    private static final String PATH = "/home/eserra/Birkbeck/CSIS/CW-CSIS/cw-one/";
     // word + line is the part of the current line that's not yet processed
     // word has no whitespace
     // If word and line are not empty, line begins with whitespace
@@ -83,15 +86,39 @@ public class Translator {
 
         String ins = scan();
         switch (ins) {
+            //TODO add reflection myClasses.forEach();
+
             case "add":
                 r = scanInt();
                 s1 = scanInt();
                 s2 = scanInt();
                 return new AddInstruction(label, r, s1, s2);
+            case "sub":
+                r = scanInt();
+                s1 = scanInt();
+                s2 = scanInt();
+                return new SubInstruction(label, r, s1, s2);
+            case "mul":
+                r = scanInt();
+                s1 = scanInt();
+                s2 = scanInt();
+                return new MulInstruction(label, r, s1, s2);
+            case "div":
+                r = scanInt();
+                s1 = scanInt();
+                s2 = scanInt();
+                return new DivInstruction(label, r, s1, s2);
             case "lin":
                 r = scanInt();
                 s1 = scanInt();
                 return new LinInstruction(label, r, s1);
+            case "out":
+                s1 = scanInt();
+                return new OutInstruction(label, s1);
+            case "bnz":
+                s1 = scanInt();
+                String label1 = scan();
+                return new BnzInstruction(label, s1, label1);
         }
 
         // You will have to write code here for the other instructions.
