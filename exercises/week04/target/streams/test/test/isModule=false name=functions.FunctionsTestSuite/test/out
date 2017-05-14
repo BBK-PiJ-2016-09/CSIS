@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0m[32mFunctionsTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Tail removes the first element[0m[0m
+[0m[[0minfo[0m] [0m[32m- setHead changes the first element of the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- drop removes N elements from the front of the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- init removes the last element[0m[0m
+[0m[[0minfo[0m] [0m[32m- foldLeft computes the correct value[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum produces the correct sum[0m[0m
+[0m[[0minfo[0m] [0m[32m- product produces the correct product[0m[0m
+[0m[[0minfo[0m] [0m[32m- length calculates the length[0m[0m
+[0m[[0minfo[0m] [0m[32m- reverse reverses the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten flattens the nested list[0m[0m
+[0m[[0minfo[0m] [0m[32m- map creates a new list of the correct values[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter filters the list[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatMap maps and flattens[0m[0m
+[0m[[0minfo[0m] [0m[32m- maxAverage calculates the max average[0m[0m
+[0m[[0minfo[0m] [0m[32m- variance calculates the correct variance[0m[0m

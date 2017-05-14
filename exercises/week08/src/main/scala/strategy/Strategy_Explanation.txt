@@ -1,0 +1,4 @@
+The strategy pattern is used to dynamically change fields in objects when they are restricted to a set of classes.
+This means we want to use it to have a restricted set of possibilities when implementing a has a relation.
+
+We should use it when there is a field that can belong to a set of different types, and can dynamically change.

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mPublicScalaClassesSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- [1] A counter inc and dec should not change the value[0m[0m
+[0m[[0minfo[0m] [0m[32m- [2] A counter dec dec dec should be the value -3[0m[0m
+[0m[[0minfo[0m] [0m[32m- [3] A counter dec dec dec should be dec(3)[0m[0m
+[0m[[0minfo[0m] [0m[32m- [4] A person with name and surname should be the same as person with 'name surname'[0m[0m
+[0m[[0minfo[0m] [0m[32m- [5] A Director should have a complete name[0m[0m
+[0m[[0minfo[0m] [0m[32m- [6] Clint eastwood should be older than Mc Tiernan[0m[0m
+[0m[[0minfo[0m] [0m[32m- [7] Clint eastwood should be older when releasing gran torino than McTiernan when releasing predator[0m[0m
+[0m[[0minfo[0m] [0m[32m- [8] Memento should have higher rating than the dark knight, but unfortunately it doesn't[0m[0m

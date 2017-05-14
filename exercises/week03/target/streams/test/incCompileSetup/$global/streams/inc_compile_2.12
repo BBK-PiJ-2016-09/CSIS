@@ -1,0 +1,327 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/basics/PublicScalaBasicsSuite.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$IfExprTraverser.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$MethodCallTraverser.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$MethodTraverser.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$ValTraverser.class
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals.class
+binary dependencies:
+9 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/.sbt/preloaded/org.scala-lang/scala-compiler/2.12.1/jars/scala-compiler.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> /home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala
+member reference external dependencies:
+1 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> basics.ScalaBasics$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> basics.PublicScalaBasicsSuite
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals$
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals$IfExprTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals$MethodCallTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals$MethodTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support.TreeTraversals$ValTraverser
+used names:
+209 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> $org_scalatest_assert_macro_expr
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> $org_scalatest_assert_macro_left
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> $org_scalatest_assert_macro_right
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> %
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> +
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> -
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> <init>
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> ==
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> >
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Array
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> BigInt
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Bool
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> ClassTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> FunSuite
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> None
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Position
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Predef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Prettifier
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> PublicScalaBasicsSuite
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> Random
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> ScalaBasics
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> String
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> StringContext
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> TreeTraversals
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> _1
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> _2
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> a
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> add
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> apply
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> asInstanceOf
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> assert
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> assertionsHelper
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> b
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> base36
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> basics
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> binaryMacroBool
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> check
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> default
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> doesNotHaveIfs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> fail
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> foreach
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> getMethod
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasForComp
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasForEach
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasIfs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasLoops
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasValDef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasVarDef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hasWhileLoop
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> head
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> here
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> i
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> inRange
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> intWrapper
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> isInstanceOf
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> isPalindrome
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> j
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> l
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> last
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> length
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> lengthSizeMacroBool
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> ls
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> macroAssert
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> materializeClassTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> method
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> minFor
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> minRecursive
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> minWhile
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> n
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> ne
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> nextInt
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> notBool
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> oddRange
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> org
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> p
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> package
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> pp
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> r
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> refArrayOps
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> reflect
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> rs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> s
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> scala
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> scalactic
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> scalatest
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> simpleMacroBool
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> source
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> splitInHalf
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> support
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> test
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> to
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> unary_!
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> unchecked
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> util
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> v
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> value
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> withFilter
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> !=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> &&
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ::
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> <init>
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ==
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> AnyRef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Boolean
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Codec
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> DefDef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> DefDefTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Flag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> If
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> IfExprTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> IfTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> LabelDef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> LabelDefTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> List
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> MUTABLE
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> MethodCallTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> MethodTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Nil
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Option
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> PARAM
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Predef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Select
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> SelectTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Source
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> String
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> TermName
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> TermNameTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ToolBox
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Traverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Tree
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> TreeTraversals
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> Unit
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ValDef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ValDefTag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ValTraverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> _1
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> _2
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> asTree
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> augmentString
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> calls
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> calls_=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> canBuildFrom
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> collection
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> defdefs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> defdefs_=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> exists
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> fallbackSystemCodec
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> file
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> find
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> fromFile
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> get
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getClass
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getClassLoader
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getIfs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getLines
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getMethod
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getMethods
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getTerms
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getVals
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> getVars
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> hasFlag
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> hasForComp
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> hasForEach
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> hasWhileLoop
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ifs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ifs_=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> immutable
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> io
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> isEmpty
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> map
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> matches
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> mkString
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> mkToolBox
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> mods
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> n
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> name
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> ne
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> nonEmpty
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> package
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> parse
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> qual$1
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> r
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> reflect
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> regexp
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> replaceAllIn
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> runtime
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> runtimeMirror
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> s
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> scala
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> showRaw
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> size
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> source
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> support
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> toolbox
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> tools
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> traverse
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> traverser
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> tree
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> unapply
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> unary_!
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> unchecked
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> universe
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> valdef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> valdefs
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> valdefs_=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> vardef
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> withFilter
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> x$8
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> x$9
+product stamps:
+7 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/basics/PublicScalaBasicsSuite.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$IfExprTraverser.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$MethodCallTraverser.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$MethodTraverser.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals$ValTraverser.class -> lastModified(1494675112000)
+/home/eserra/Birkbeck/CSIS/exercises/week03/target/scala-2.12/test-classes/support/TreeTraversals.class -> lastModified(1494675112000)
+source stamps:
+2 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> hash(a16d487e67b285618bef6edb118d410a555e04b7)
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> hash(48f8650e9d67caa7bf80e18083dc1fb5bd5ed0ee)
+binary stamps:
+6 items
+/home/eserra/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar -> lastModified(1478757013000)
+/home/eserra/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar -> lastModified(1478757171000)
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-compiler/2.12.1/jars/scala-compiler.jar -> lastModified(1480936238000)
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar -> lastModified(1480936165000)
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar -> lastModified(1480935977000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1494039098000)
+class names:
+6 items
+/home/eserra/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar -> org.scalactic.Bool$
+/home/eserra/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar -> org.scalatest.FunSuite
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-compiler/2.12.1/jars/scala-compiler.jar -> scala.tools.reflect.FrontEnd
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar -> scala.collection.SeqLike
+/home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar -> scala.reflect.api.Trees
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4gVYSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0ZgebXQAFXVuY29uc3RyYWluZWRFcXVhbGl0eXNxAH4AC2t/cAd0ABJjb252ZXJ0VG9FcXVhbGl6ZXJ1cQB+AAkAAABjc3EAfgALdV06pXQABmFzc2VydHNxAH4AC99rNMB0AAdzdWNjZWVkc3EAfgALvNG6SXQABm5vdGlmeXNxAH4AC+oPWxh0ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4ACxh5n3V0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALGkhRenQABmNhbmNlbHNxAH4AC231OiN0AAR0ZXN0c3EAfgALNWsddHQAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALxR8KHnQACWludGVyY2VwdHNxAH4AC8P+W7J0AARmYWlsc3EAfgALzAmnzXQABG5hbWVzcQB+AAsPnR7zdAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAuztcsbdAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAtIhOsrdAAHZXhlY3V0ZXNxAH4AC51t1FZ0AAR3YWl0c3EAfgALIiblFHQAC3Rlc3REYXRhRm9yc3EAfgALml3rK3QAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAsz2xTNdAAJc3R5bGVOYW1lc3EAfgALicqsw3QADSRhc0luc3RhbmNlT2ZzcQB+AAsw/8OPdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAtC6dFEdAAJY29uZmlnTWFwc3EAfgALbls6IXQABmVxdWFsc3NxAH4AC9FYuSl0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC/lx4pR0AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAuZG7OjdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC2Fj96F0AAR0YWdzc3EAfgALttSRdnQADGFzSW5zdGFuY2VPZnNxAH4AC9EA1rx0AAVhbGVydHNxAH4AC3wws4R0AANydW5zcQB+AAsQe3BTdAAGc2NvcGVzc3EAfgALuGVoxHQAA3Bvc3NxAH4ACxdNufV0AAxzeW5jaHJvbml6ZWRzcQB+AAvor0DKdAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAuCjwrgdAAMYXNzZXJ0VGhyb3dzc3EAfgAL5QRzaHQADSRpc0luc3RhbmNlT2ZzcQB+AAtlhg4DdAAEdHJhcHNxAH4AC1WCVbx0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAsaFshodAAMYXNzZXJ0UmVzdWx0c3EAfgALGYUQQHQABHRleHRzcQB+AAuFSky7dAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAv+vyMKdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAsDpqvadAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALRWcIFXQAAyE9PXNxAH4AC9AlJH90AARpbmZvc3EAfgALoRgIdXQACW5vdGlmeUFsbHNxAH4AC3xPyj50AAt3aXRoRml4dHVyZXNxAH4AC0sxJNh0AAdydW5UZXN0c3EAfgALohrlnHQADGlzSW5zdGFuY2VPZnNxAH4AC+7TfHJ0AAh3aXRoQ2x1ZXNxAH4AC9oaO7J0ABBhc3NlcnRpb25zSGVscGVyc3EAfgALORAbRnQAEWV4ZWN1dGUkZGVmYXVsdCQ2c3EAfgALOWU2KXQAD2Fzc2VydFR5cGVFcnJvcnNxAH4AC+mJGbZ0AAZtYXJrdXBzcQB+AAv7d9lBdAAIbGVmdFNpZGVzcQB+AAsYrYr7dAAGPGluaXQ+c3EAfgALUvDE23QAC21hY3JvQXNzdW1lc3EAfgALTXt3mnQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC6gIGy90AAVhcHBseXNxAH4AC+teZf90AAlFcXVhbGl6ZXJzcQB+AAu8np9LdAAbbmV3QXNzZXJ0aW9uRmFpbGVkRXhjZXB0aW9uc3EAfgALn1gkOXQABG5vdGVzcQB+AAuzNAu/dAACPT1zcQB+AAsEiT0adAAFY2xvbmVzcQB+AAs8U1zTdAAMbmVzdGVkU3VpdGVzc3EAfgALmbl3ZnQABmFzc3VtZXNxAH4AC6+6c1l0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC0PDmd90AAxyZWdpc3RlclRlc3RzcQB+AAs9bBA4dAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAtBnCpvdAADPT09c3EAfgALelB1GXQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4AC9clATV0AAh0b1N0cmluZ3NxAH4ACym/6390AAl0ZXN0TmFtZXNzcQB+AAv8GphMdAAPeWVPbGRlVGVzdE5hbWVzc3EAfgALWwOf5nQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALOGdtFnQAFlB1YmxpY1NjYWxhQmFzaWNzU3VpdGVzcQB+AAtkqBDvdAACIT1zcQB+AAtqrXeGdAAIZ2V0Q2xhc3NzcQB+AAuKhqbJdAATcmVnaXN0ZXJJZ25vcmVkVGVzdHNxAH4AC+6jm3h0AAh0ZXN0c0ZvcnNxAH4AC8/dN5B0AAhydW5UZXN0c3NxAH4ACzRSf9h0ABFwZW5kaW5nVW50aWxGaXhlZHNxAH4AC76WtgB0ABFleHBlY3RlZFRlc3RDb3VudHNxAH4AC6swaTd0AAhyZXJ1bm5lcnNxAH4AC/t23Gx0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALc9znVHQAAm5lc3EAfgALm4JSl3QAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALhCwOcnQAB3BlbmRpbmdzcQB+AAtXA1S7dAAGaWdub3Jlc3EAfgAL/NPBtXQAC21hY3JvQXNzZXJ0c3EAfgAL1p2UgXQAAmVxc3EAfgALP8AP93QAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALtoHHTHQACU5vQXJnVGVzdHNxAH4AC8hlwT10AAIjI3NxAH4ACzidhbF0AAhmaW5hbGl6ZXNxAH4AC89lt6N0ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAuZLXl0dAAIaGFzaENvZGVzcQB+AAuks+E1dAAHc3VpdGVJZHNxAH4AC2GOTAx0AAlzdWl0ZU5hbWVzcQB+AAufkJTWdAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A4XhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHWJhc2ljcy5QdWJsaWNTY2FsYUJhc2ljc1N1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgD7AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDhTAAJaW5oZXJpdGVkcQB+AOFMAAdwYXJlbnRzcQB+AOF4cQB+AQJzcQB+APsBdXEAfgDcAAAAAHBzcQB+APsBdXEAfgDcAAAAAHBzcQB+APsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABBzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEBdAAIRnVuU3VpdGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AQFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BGnQACXNjYWxhdGVzdHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEbc3EAfgEOdAAMRnVuU3VpdGVMaWtlcQB+ARRzcQB+AQ50AAtEb2N1bWVudGluZ3EAfgEUc3EAfgEOdAAIQWxlcnRpbmdxAH4BFHNxAH4BDnQACU5vdGlmeWluZ3EAfgEUc3EAfgEOdAAJSW5mb3JtaW5ncQB+ARRzcQB+AQ50ABBUZXN0UmVnaXN0cmF0aW9ucQB+ARRzcQB+AQ50AAlUZXN0U3VpdGVxAH4BFHNxAH4BDnQABVN1aXRlcQB+ARRzcQB+AQ50AAxTZXJpYWxpemFibGVzcQB+ARJzcQB+ARV1cQB+ARgAAAACc3EAfgEadAAFc2NhbGFxAH4BIXNxAH4BDnEAfgEzc3EAfgESc3EAfgEVdXEAfgEYAAAAA3NxAH4BGnQABGphdmFzcQB+ARp0AAJpb3EAfgEhc3EAfgEOdAAKQXNzZXJ0aW9uc3EAfgEUc3EAfgEOdAAMVHJpcGxlRXF1YWxzc3EAfgESc3EAfgEVdXEAfgEYAAAAA3NxAH4BGnQAA29yZ3NxAH4BGnQACXNjYWxhY3RpY3EAfgEhc3EAfgEOdAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgFFc3EAfgEOdAAGT2JqZWN0c3EAfgESc3EAfgEVdXEAfgEYAAAAA3NxAH4BGnEAfgE+c3EAfgEadAAEbGFuZ3EAfgEhc3EAfgEOdAADQW55cQB+ATRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABmJhc2ljc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAGUIah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKL2hvbWUvZXNlcnJhL0JpcmtiZWNrL0NTSVMvZXhlcmNpc2VzL3dlZWswMy90YXJnZXQvc2NhbGEtMi4xMi90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABShbUh+Z7KFYYvvbtsRjUEKVV4Etw==
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCXz1S/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGnCynx0AAZub3RpZnlzcQB+AAwCZuAXdAAJZ2V0TWV0aG9kc3EAfgAMEaa/DHQADXRyYXZlcnNlR3VhcmRzcQB+AAzsBfv4dAAHYXRPd25lcnNxAH4ADAJgG910AAR3YWl0c3EAfgAMDneGJHQADSRhc0luc3RhbmNlT2ZzcQB+AAxbSv0ndAAIaGFzTG9vcHNzcQB+AAwcesDudAAGZXF1YWxzc3EAfgAMZHtk53QAFnRyYXZlcnNlVHlwZUFzY3JpcHRpb25zcQB+AAyB5TISdAANdHJhdmVyc2VDYXNlc3NxAH4ADN9cwXN0AA90cmF2ZXJzZVBhdHRlcm5zcQB+AAxP8rCZdAAMYXNJbnN0YW5jZU9mc3EAfgAMrNz7RHQAEHRyYXZlcnNlQ29uc3RhbnRzcQB+AAwT2LzadAAIZ2V0VGVybXNzcQB+AAxrYn9YdAAMc3luY2hyb25pemVkc3EAfgAMqAz1I3QABWNhbGxzc3EAfgAMuDAObnQADSRpc0luc3RhbmNlT2ZzcQB+AAxcd3/hdAATdHJhdmVyc2VBbm5vdGF0aW9uc3NxAH4ADKkZkGB0ABZ0cmF2ZXJzZUltcG9ydFNlbGVjdG9yc3EAfgAMGs5Nj3QACWhhc1ZhckRlZnNxAH4ADNHKD090AApoYXNGb3JFYWNoc3EAfgAMaNhvtXQACW5vdGlmeUFsbHNxAH4ADEG5XA10AAdnZXRWYWxzc3EAfgAMS4R+h3QADnRyYXZlcnNlUGFyYW1zc3EAfgAMMpARo3QAB2dldFZhcnNzcQB+AAydiRQOdAAMaXNJbnN0YW5jZU9mc3EAfgAMfI1CL3QACmhhc0ZvckNvbXBzcQB+AAx6629rdAANdHJhdmVyc2VTdGF0c3NxAH4ADH5C7eh0AAY8aW5pdD5zcQB+AAxe+t8+dAAFYXBwbHlzcQB+AAwWEMdxdAADcmF3c3EAfgAMp5VB9XQABmdldFZhbHNxAH4ADKkxZLB0AAI9PXNxAH4ADJUCylt0AA50cmF2ZXJzZVRyZWVzc3NxAH4ADOlWcgp0AAh0cmF2ZXJzZXNxAH4ADBdHoid0AAVjbG9uZXNxAH4ADDvjgcx0AAxWYWxUcmF2ZXJzZXJzcQB+AAxVi/SfdAADaWZzc3EAfgAM3/ZASXQACmdldE1ldGhvZHNzcQB+AAxpM0GVdAANdHJhdmVyc2VUcmVlc3NxAH4ADD4haRp0AAZoYXNJZnNzcQB+AAyK9sdAdAAOVHJlZVRyYXZlcnNhbHNzcQB+AAwpBn48dAAJaGFzVmFsRGVmc3EAfgAMlRznmXQAEXRyYXZlcnNlTW9kaWZpZXJzc3EAfgAMKA+0xXQAD3RyYXZlcnNlUGFyYW1zc3NxAH4ADGAnU7t0AAh0b1N0cmluZ3NxAH4ADDx4n6x0AAxoYXNXaGlsZUxvb3BzcQB+AAwK5q0tdAACIT1zcQB+AAwy6hjNdAAPSWZFeHByVHJhdmVyc2Vyc3EAfgAMf0xygHQADmRvZXNOb3RIYXZlSWZzc3EAfgAMdlNiEnQADGN1cnJlbnRPd25lcnNxAH4ADENrBml0AAhnZXRDbGFzc3NxAH4ADNNhkBN0ABNNZXRob2RDYWxsVHJhdmVyc2Vyc3EAfgAMFYoesXQABmdldElmc3NxAH4ADAgiDm50ABB0cmF2ZXJzZVR5cGVBcmdzc3EAfgAMdcLD/3QAB3ZhbGRlZnNzcQB+AAwUfcw1dAAMdHJhdmVyc2VOYW1lc3EAfgAMwd2zynQAEHRyYXZlcnNlU2VsZlR5cGVzcQB+AAwfQOVydAAHZGVmZGVmc3NxAH4ADNICOuR0AAJuZXNxAH4ADG3M2AV0AAZhc1RyZWVzcQB+AAxZ7NR1dAAPdHJhdmVyc2VQYXJlbnRzc3EAfgAMlNehv3QAAmVxc3EAfgAMhuQle3QAAiMjc3EAfgAMg+ECMHQACGZpbmFsaXplc3EAfgAMbck4RnQACGhhc2hDb2Rlc3EAfgAMuELnFXQAD01ldGhvZFRyYXZlcnNlcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZzdXBwb3J0LlRyZWVUcmF2ZXJzYWxzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgC1AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCdTAAJaW5oZXJpdGVkcQB+AJ1MAAdwYXJlbnRzcQB+AJ14cQB+ALxzcQB+ALUBdXEAfgCYAAAAAHBzcQB+ALUBdXEAfgCYAAAAAHBzcQB+ALUBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDVc3EAfgDIdAADQW55c3EAfgDMc3EAfgDPdXEAfgDSAAAAAnNxAH4A1HQABXNjYWxhcQB+ANtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N1cHBvcnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwBlCGodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9ob21lL2VzZXJyYS9CaXJrYmVjay9DU0lTL2V4ZXJjaXNlcy93ZWVrMDMvdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUSPhlDp1nyqe/gOGAg9wftb1e0O4=
+external apis:
+1 items
+basics.ScalaBasics$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBMbZ9IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHylnFx0AAZub3RpZnlzcQB+AAzTEXobdAAMbWluUmVjdXJzaXZlc3EAfgAMctepw3QABHdhaXRzcQB+AAwgIHFcdAANJGFzSW5zdGFuY2VPZnNxAH4ADDKh3Mt0AAxpc1BhbGluZHJvbWVzcQB+AAyBIdIWdAAGZXF1YWxzc3EAfgAMGlaKHXQADGFzSW5zdGFuY2VPZnNxAH4ADH7DZlp0AAxzeW5jaHJvbml6ZWRzcQB+AAzUS0fPdAALU2NhbGFCYXNpY3NzcQB+AAzxUtuTdAANJGlzSW5zdGFuY2VPZnNxAH4ADIWX0E50AAhtaW5XaGlsZXNxAH4ADPEhRMt0AAZiYXNlMzZzcQB+AAyMMud5dAAJbm90aWZ5QWxsc3EAfgAMdcDPc3QADGlzSW5zdGFuY2VPZnNxAH4ADEiybIV0AAtzcGxpdEluSGFsZnNxAH4ADOBFjYt0AAI9PXNxAH4ADHf5tO10AAVjbG9uZXNxAH4ADPCJ58N0AAhvZGRSYW5nZXNxAH4ADPg/pYV0AAh0b1N0cmluZ3NxAH4ADJp2rZ90AAIhPXNxAH4ADDKz10h0AAhnZXRDbGFzc3NxAH4ADDA2z7p0AAZtaW5Gb3JzcQB+AAzBGebJdAACbmVzcQB+AAx+yhCOdAADYWRkc3EAfgAMRL02g3QAB2luUmFuZ2VzcQB+AAzu5tP4dAALd29yZENvdW50ZXJzcQB+AAw6oiDQdAACZXFzcQB+AAysK8n+dAACIyNzcQB+AAwqQJqYdAAIZmluYWxpemVzcQB+AAzj1bZYdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASYmFzaWNzLlNjYWxhQmFzaWNzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBrAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHJzcQB+AGsBdXEAfgBOAAAAAHBzcQB+AGsBdXEAfgBOAAAAAHBzcQB+AGsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJFwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmJhc2ljc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAGUAK91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL2hvbWUvZXNlcnJhL0JpcmtiZWNrL0NTSVMvZXhlcmNpc2VzL3dlZWswMy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/lLpS/2vrsYRodkQZoD9Dx5p5Vg=
+source infos:
+2 items
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/basics/PublicScalaBasicsSuite.scala -> 
+AAAAAAAAAAA=
+/home/eserra/Birkbeck/CSIS/exercises/week03/src/test/scala/support/TreeTraversals.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/mmIoZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2VzZXJyYS9CaXJrYmVjay9DU0lTL2V4ZXJjaXNlcy93ZWVrMDMvdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAGUIah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2VzZXJyYS9CaXJrYmVjay9DU0lTL2V4ZXJjaXNlcy93ZWVrMDMvdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABLw==

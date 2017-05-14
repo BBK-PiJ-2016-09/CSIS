@@ -1,0 +1,69 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/eserra/Birkbeck/CSIS/exercises/week04/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.12.1. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.1  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_3679dd16[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/eserra/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/tmp/sbt_75063b3a/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/home/eserra/.sbt/preloaded/org.scala-lang/scala-compiler/2.12.1/jars/scala-compiler.jar:/home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar:/home/eserra/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar:/home/eserra/.sbt/preloaded/jline/jline/2.14.1/jars/jline.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_388e13d5/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 20.997 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3f881a8a, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/eserra/.sbt/preloaded/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/eserra/Birkbeck/CSIS/exercises/week04/target/scala-2.12/classes:/home/eserra/.sbt/preloaded/org.scala-lang/scala-compiler/2.12.1/jars/scala-compiler.jar:/home/eserra/.sbt/preloaded/org.scala-lang/scala-reflect/2.12.1/jars/scala-reflect.jar:/home/eserra/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/bundles/scala-xml_2.12.jar:/home/eserra/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar[0m
+[0m[[33mwarn[0m] [0m/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala:117: abstract type A in type pattern List[A] (the underlying of List[A]) is unchecked since it is eliminated by erasure[0m
+[0m[[33mwarn[0m] [0m    case (head: List[A]) :: tail => flatten(head) ::: flatten(tail)[0m
+[0m[[33mwarn[0m] [0m                ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 27.018700483 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/eserra/Birkbeck/CSIS/exercises/week04/src/main/scala/functions/functions.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, flatten, wait, $asInstanceOf, maxAverage, variance, map, equals, asInstanceOf, synchronized, $isInstanceOf, tail, notifyAll, drop, isInstanceOf, reverse, filter, flatMap, ==, clone, toString, length, !=, Funcs, getClass, foldLeft, ne, init, eq, sum, ##, finalize, hashCode, product, setHead.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

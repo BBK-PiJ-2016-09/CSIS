@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d99177-94cb-4a6c-b72a-4ae6ec829196" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/.idea/" />
+    <ignored path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/.idea_modules/" />
+    <ignored path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/project/project/target/" />
+    <ignored path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cheese.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/decorator/Cheese.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/ebooks/code/fpinjava/fpinjava-parent" value="2869658866000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/singletonpattern/SingletonLazyDoubleCheck.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/singletonpattern/SingletonLazyMultithreaded.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/singletonpattern/SingletonProtected.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/PayD.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/Xpay.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/XpayImpl.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/PayD.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/Xpay.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/RunAdapterExample.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayImpl.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayToPayDAdapter.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/RunAdapterExample.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayImpl.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayToPayDAdapter.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Commentary.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/CommentaryObject.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Observer.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/SMSUsers.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Subject.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/TestObserver.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Commentary.java" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/CommentaryObject.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/CommentaryObjectObservable.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/SMSUsers.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/SMSUsersObserver.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/Test.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Cheese.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/GreenOlives.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Ham.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Meat.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Pizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/RomaTomatoes.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/SimplyNonVegPizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/SimplyVegPizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Spinach.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/TestDecoratorPattern.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Broccoli.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Cheese.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Chicken.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/FetaCheese.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/GreenOlives.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Ham.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Meat.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Pizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/PizzaDecorator.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/RedOnions.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/RomaTomatoes.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/SimplyNonVegPizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/SimplyVegPizza.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Spinach.scala" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/TestDecoratorPattern.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xpay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="singletonpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="observerpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="observer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decoratorpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapterpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises week04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapterpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="week06" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1487541472063" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="exercises week04" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="week06" />
+                <option name="path" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="week06-build" />
+                <option name="path" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../2016/SDP2016/cw3/raytracer" value="1458936532000" />
+        <entry key="$PROJECT_DIR$/../../../2016/SDP2016/week09-tuesday" value="1456852134000" />
+        <entry key="$PROJECT_DIR$" value="1487541244000" />
+        <entry key="$USER_HOME$/Dropbox/Courses/sdp/2015/code/ScalaFX-Tutorials/hello-sbt" value="1426808291000" />
+        <entry key="$USER_HOME$/Dropbox/Courses/sdp/2015/code/ScalaFX-Tutorials/molecule-3d" value="1426808291000" />
+        <entry key="$USER_HOME$/Dropbox/Courses/sdp/2015/code/ScalaFX-Tutorials/stand-alone-dialog" value="1426808291000" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/coursework/cw-two" value="1485187030000" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week04" value="1485733085000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d99177-94cb-4a6c-b72a-4ae6ec829196" name="Default" comment="" />
+      <created>1487541459250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487541459250</updated>
+      <workItem from="1487541460759" duration="237000" />
+      <workItem from="1487541940720" duration="15000" />
+      <workItem from="1487541971634" duration="1766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2018000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33584905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="EvoSuite" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/TestDecoratorPattern.scala</url>
+          <line>5</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/XpayImpl.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/PayD.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/PayD.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/Xpay.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/Xpay.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/xpay/XpayImpl.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayImpl.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayToPayDAdapter.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/RunAdapterExample.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/RunAdapterExample.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayImpl.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/adapterpattern/site/XpayToPayDAdapter.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/CommentaryObject.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Observer.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/SMSUsers.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Subject.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/TestObserver.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Commentary.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observer/Commentary.java" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/CommentaryObject.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/CommentaryObjectObservable.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/SMSUsers.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/SMSUsersObserver.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/observerpattern/Test.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Cheese.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/GreenOlives.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Ham.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Meat.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Pizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/RomaTomatoes.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/SimplyNonVegPizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/SimplyVegPizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/Spinach.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decorator/TestDecoratorPattern.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Cheese.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Chicken.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/FetaCheese.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/GreenOlives.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Ham.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Meat.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Pizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/PizzaDecorator.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/RedOnions.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/RomaTomatoes.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/SimplyNonVegPizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/SimplyVegPizza.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Spinach.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/Broccoli.scala" />
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Courses/sdp/SDP-2017/exercises/week06/src/main/scala/decoratorpattern/TestDecoratorPattern.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/decorator/Cheese.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.typesafe.akka:akka-actor_2.11:2.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>week06</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000003" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: org.scala-lang.modules:scala-parser-combinators_2.12:1.0.4:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

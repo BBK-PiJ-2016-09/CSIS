@@ -1,0 +1,21 @@
+scala
+2+2
+val number = readLine()
+if( number.toInt > 100){
+  println("That's a big number");
+}else{
+  println("That's a small number");
+}
+
+
+var number = readLine().toInt;while(number != 0){println(number*number);number=readLine().toInt}
+
+for(i <-1 to 25){println(i*i);println(i*i*i);}
+
+:load ./test.scala
+
+
+isEven(5)
+
+isEven(6)
+
